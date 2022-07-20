@@ -1,0 +1,23 @@
+img {
+  border-radius: 50%;
+  cursor: pointer;
+  transition: border-radius 0.5s;
+}
+
+.changed {
+  border-radius: 0;
+}
+
+section {
+  border-width: 1px;
+  border-color: gray;
+  border-style: solid;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 8px;
+  background-image: url(img/background.png);
+}
+
+body {
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
